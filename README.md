@@ -5,6 +5,8 @@ This extension adds a small icon in the top bar indicating which GPU you're curr
 
 ![Image of Indicator](https://github.com/anbclausen/gpu-indicator-gnome-extension/blob/master/img.png)
 
+This iamge shows the extension indicating that the Intel iGPU is being used.
+
 Note: This extension won't cause any harm to your system if you don't have the right prerequisites, it just might show irrelavent and wrong information to you. (Use the extension at your own caution.)
 
 Also feel free to edit and redistribute this extension for your liking.
