@@ -3,6 +3,8 @@ This extension is inteded to be used with [dglt1](https://github.com/dglt1)'s op
 
 This extension adds a small icon in the top bar indicating which GPU you're currently using. This extension simply works by running ```nvidia-smi``` in the terminal, and checking if the Nvidia GPU is active. It assumes your system is equipped with an Intel GPU and a Nvidia GPU. If this is not the case for your system. This extension won't be useful for you.
 
+![Image of Indicator](https://github.com/anbclausen/gpu-indicator-gnome-extension/blob/master/img.png)
+
 Note: This extension won't cause any harm to your system if you don't have the right prerequisites, it just might show irrelavent and wrong information to you. (Use the extension at your own caution.)
 
 Also feel free to edit and redistribute this extension for your liking.
