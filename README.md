@@ -38,11 +38,11 @@ This will disable the extension immediatly. If you want to get rid of the extens
 ## Testing
 This extension alongside [optimus-switch-gdm](https://github.com/dglt1/optimus-switch-gdm) works great on the following system as of May 20, 2020:
 
-Dell XPS 7950, 2019 model,
-Intel Core i7-9750H Processor,
-Nvidia GTX 1650 dGPU,
-5.4.39-1-MANJARO x86_64 Kernel,
-Gnome 3.36.2.
+. Dell XPS 7950, 2019 model,
+. Intel Core i7-9750H Processor,
+. Nvidia GTX 1650 dGPU,
+. 5.4.39-1-MANJARO x86_64 Kernel,
+. Gnome 3.36.2.
 
 ## Authors
 
